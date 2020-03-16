@@ -1,0 +1,14 @@
+{
+    "deploymentJob": [
+      {
+        "repoUrl": "https://github.com/mahesh-pampa/sampleDusDeployment.git",
+        "appVersions": [
+          "default"
+        ],
+        "branchName": "master",
+        "shouldDeploy": true,
+        "preCompileScript": "ls",
+        "bundleName": "example"
+      }
+    ]
+  }
